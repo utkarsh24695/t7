@@ -1,0 +1,10 @@
+[21-May-2020 14:16:38] NOTICE: fpm is running, pid 10718
+[21-May-2020 14:16:38] NOTICE: ready to handle connections
+[22-May-2020 15:17:14] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/d1PAQmVRw/php/php-fpm.socket
+[22-May-2020 15:17:14] ERROR: FPM initialization failed
+[22-May-2020 15:17:14] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/d1PAQmVRw/php/php-fpm.socket
+[22-May-2020 15:17:14] ERROR: FPM initialization failed
+[22-May-2020 15:17:15] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/d1PAQmVRw/php/php-fpm.socket
+[22-May-2020 15:17:15] ERROR: FPM initialization failed
+[22-May-2020 15:17:16] ERROR: Another FPM instance seems to already listen on /home/cedcoss/.config/Local/run/d1PAQmVRw/php/php-fpm.socket
+[22-May-2020 15:17:16] ERROR: FPM initialization failed
